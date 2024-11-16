@@ -1,2 +1,2 @@
-# Banking-Data-Analysis-In-SQL
+# Banking-Data-Analysis
 This is SQL end to end project
