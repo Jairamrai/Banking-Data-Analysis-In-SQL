@@ -1,4 +1,4 @@
-# Banking-Data-Analysis
+# SQL-Driven Financial Data Analysis(Banking)
 This is SQL end to end project
 
 In this project, I analyzed customer transactions, branch performance, and demographic trends to uncover actionable insights. Key outcomes included identifying 30% inactive accounts and proposing re-engagement strategies, ranking branches based on deposits to improve resource allocation, and designing a fraud detection model that identified 98% of suspicious transactions. This project enhanced my skills in data querying, analysis, and driving data-driven decision-making.
